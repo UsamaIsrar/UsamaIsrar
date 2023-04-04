@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Usama
 - 👀 I’m interested in ...fronend
-- 🌱 I’m currently learning ...React 
+- 🌱 I’m currently working as a full satck developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...usamaisrar8@gamil.com
 
