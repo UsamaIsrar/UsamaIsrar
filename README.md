@@ -1,15 +1,15 @@
  Hey there! 👋
 
-I'm Usama, a passionate software engineer on a mission to turn caffeine into code ☕💻. With a knack for problem-solving and a love for clean, efficient code, I navigate the digital realms in pursuit of elegant solutions.
+I'm Usama, a dedicated software engineer with a passion for crafting seamless and delightful user experiences using React. As a front-end wizard, I thrive on turning concepts into reality, one component at a time.
 
 👨‍💻 Tech Stack:
 - **Languages:** Python, JavaScript, Java
 - **Frameworks:** React, Flask, Spring Boot
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes
+  
 
 #### 🚀 Current Focus:
-Right now, I'm diving deep into microservices architecture and sharpening my skills in cloud technologies, particularly AWS and Kubernetes. I believe in continuous learning and staying updated with the latest tech trends.
+Right now, I'm knee-deep in a thrilling React project. The challenge is to create a user-friendly interface that not only meets the functional requirements but also delights users with smooth interactions.
 
 #### 🌐 Open Source Contributions:
 I'm an advocate for open source and have contributed to projects that align with my values. Sharing knowledge is key, and I actively participate in tech communities to give back to the ecosystem.
